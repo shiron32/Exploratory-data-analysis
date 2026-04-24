@@ -109,12 +109,14 @@ Apply scaling if using linear models
 5. Outlier Handling
 Retain outliers if they represent real high-cost cases
 Optionally cap extreme values
-📊 Key Insights (Portfolio Highlights)
+
+📊 Key Insights 
 Insurance charges exhibit a right-skewed distribution, requiring transformation for effective modeling
 Smoking status has a dominant impact on cost, significantly increasing charges
 BMI and age show moderate correlation with charges, especially when combined with smoking
 No strong multicollinearity detected, allowing stable model training
 High-cost individuals can be clearly segmented, enabling risk-based pricing strategies
+
 💼 Business Interpretation
 Smoking behavior is the primary cost driver, suggesting targeted premium strategies
 Risk segmentation enables insurers to design personalized pricing models
