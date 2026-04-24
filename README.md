@@ -11,12 +11,14 @@ The objective is to move beyond surface-level visualization and build a data-dri
 The dataset contains demographic and behavioral attributes such as age, BMI, smoking status, and region, with insurance charges as the target variable.
 
 🎯 Project Objectives
+
 Understand the distribution and structure of the dataset
 Identify key factors influencing insurance charges
 Detect data quality issues such as skewness or outliers
 Analyze relationships between variables
 Derive preprocessing strategies for machine learning
 Translate findings into business-relevant insights
+
 🧠 EDA Framework (Step-by-Step Thinking)
 
 Your workflow should reflect structured reasoning, not just plots:
